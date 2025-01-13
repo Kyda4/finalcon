@@ -1,0 +1,15 @@
+D:\FINALCON\finaltask2\bin\Debug\net8.0\finaltask2.exe
+D:\FINALCON\finaltask2\bin\Debug\net8.0\finaltask2.deps.json
+D:\FINALCON\finaltask2\bin\Debug\net8.0\finaltask2.runtimeconfig.json
+D:\FINALCON\finaltask2\bin\Debug\net8.0\finaltask2.dll
+D:\FINALCON\finaltask2\bin\Debug\net8.0\finaltask2.pdb
+D:\FINALCON\finaltask2\obj\Debug\net8.0\finaltask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINALCON\finaltask2\obj\Debug\net8.0\finaltask2.AssemblyInfoInputs.cache
+D:\FINALCON\finaltask2\obj\Debug\net8.0\finaltask2.AssemblyInfo.cs
+D:\FINALCON\finaltask2\obj\Debug\net8.0\finaltask2.csproj.CoreCompileInputs.cache
+D:\FINALCON\finaltask2\obj\Debug\net8.0\finaltask2.sourcelink.json
+D:\FINALCON\finaltask2\obj\Debug\net8.0\finaltask2.dll
+D:\FINALCON\finaltask2\obj\Debug\net8.0\refint\finaltask2.dll
+D:\FINALCON\finaltask2\obj\Debug\net8.0\finaltask2.pdb
+D:\FINALCON\finaltask2\obj\Debug\net8.0\finaltask2.genruntimeconfig.cache
+D:\FINALCON\finaltask2\obj\Debug\net8.0\ref\finaltask2.dll
